@@ -39,7 +39,8 @@ Exemplo:
 
 Tela:  **Sobre**
 
-[![TELA SOBRE](https://github.com/pedrobassi23/pokemon/blob/master/src/screenshots/sobre.png?raw=true)](https://pokedex-rho-taupe.vercel.app/)
+![Telasobre](https://github.com/user-attachments/assets/72a5c3ed-e0fd-41e1-9069-33c5968f2395)
+
 
 ## Início: Como rodar o app?
 
