@@ -31,8 +31,10 @@ Tela:  **Home**
 
 Exemplo:
 `/pokemon/pikachu` ou `/pokemon/mewtwo` 
+
  
- 
+ ![rotas](https://github.com/user-attachments/assets/999b947f-fdc3-4a2e-a85d-a7fc30c32d23)
+
 
 Tela:  **Sobre**
 
