@@ -8,6 +8,7 @@ Projeto moderno desenvolvido em  [ React JS](https://github.com/facebook/create-
 [Demo](https://pokedex-rho-taupe.vercel.app/)
 
 Tela:  **Home**
+
 [![Página Home](https://github.com/gianfava/pokemon/blob/master/src/screenshots/00.png?raw=true)](https://pokedex-rho-taupe.vercel.app/)
 [![Tela pokemon2](https://github.com/gianfava/pokemon/blob/master/src/screenshots/05.png?raw=true)](https://pokedex-rho-taupe.vercel.app/)
 [![Tela pokemon3](https://github.com/gianfava/pokemon/blob/master/src/screenshots/3.png?raw=true)](https://pokedex-rho-taupe.vercel.app/)
