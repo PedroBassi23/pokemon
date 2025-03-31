@@ -1,7 +1,7 @@
 
 # 📒 PokeDex em React JS + API
 
-Projeto moderno desenvolvido em  [ React JS](https://github.com/facebook/create-react-app) como atividade Avaliativa da disciplina de Desenvolvimento Web III do Curso de Desenvolvimento de Software Mutiplataforma da FATEC Franca-SP.
+Projeto moderno desenvolvido em  [ React JS](https://github.com/facebook/create-react-app) como atividade Avaliativa da disciplina de Desenvolvimento Web do Curso de Sistemas de Informação do Uni-FACEF.
 
 🚀 Para ver o APP em ação é só clicar [aqui](https://pokedex-rho-taupe.vercel.app/), ou na imagem abaixo:
 
@@ -43,7 +43,7 @@ Tela:  **Sobre**
 
  1. Você pode baixar todos os arquivos no formato compactado ZIP ou clonar este projeto no seu **VS Code** copiando e colando a seguinte expressão:
 
-   ### `git clone https://github.com/gianfava/pokemon.git`
+   ### `git clone https://github.com/PedroBassi23/pokemon.git`
 
  2. Para rodar o app, certifique-se de ter o **React JS**  instalado e estar na pasta do projeto.
  ### `cd pokemon`
