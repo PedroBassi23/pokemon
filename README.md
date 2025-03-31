@@ -5,7 +5,8 @@ Projeto moderno desenvolvido em  [ React JS](https://github.com/facebook/create-
 
 🚀 Para ver o APP em ação é só clicar [aqui](https://pokedex-rho-taupe.vercel.app/), ou na imagem abaixo:
 
-[Demo](https://pokedex-rho-taupe.vercel.app/)
+[Demo]
+(https://pokedex-rho-taupe.vercel.app/)
 
 Tela:  **Home**
 [![Página Home](https://github.com/gianfava/pokemon/blob/master/src/screenshots/00.png?raw=true)](https://pokedex-rho-taupe.vercel.app/)
