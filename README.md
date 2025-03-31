@@ -10,10 +10,7 @@ Projeto moderno desenvolvido em  [ React JS](https://github.com/facebook/create-
 Tela:  **Home**
 
 ![home](https://github.com/user-attachments/assets/7baf71e8-79d1-43b7-9c15-0fd652e0d4d5)
-[![Página Home](https://github.com/pedrobassi23/pokemon/blob/master/src/screenshots/00.png?raw=true)](https://pokedex-rho-taupe.vercel.app/)
-[![Tela pokemon2](https://github.com/pedrobassi23/pokemon/blob/master/src/screenshots/05.png?raw=true)](https://pokedex-rho-taupe.vercel.app/)
-[![Tela pokemon3](https://github.com/pedrobassi23/pokemon/blob/master/src/screenshots/3.png?raw=true)](https://pokedex-rho-taupe.vercel.app/)
-[![Tela pokemon4](https://github.com/pedrobassi23/pokemon/blob/master/src/screenshots/04.png?raw=true)](https://pokedex-rho-taupe.vercel.app/)
+
 ## Funcionalidades
  - Cards Responsivos
  - Animações de Transição (CSS)
